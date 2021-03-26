@@ -1,0 +1,16 @@
+body{
+    background-color: #154c79;
+}
+.container {
+    height: 80vh;
+    width: 100vw;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.our_h1{
+    color: white;
+    text-align: center;
+
+}
